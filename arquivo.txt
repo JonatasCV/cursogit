@@ -1,3 +1,4 @@
 Hello World!
 Curso GIT...
+VI é horrível, pqp.
 
